@@ -1,2 +1,1 @@
-# Data Structure And Algorithmn Using Python
-
+A repository that contains all the Data Structures and Algorithms concepts and their implementation in pythonic way, programming questions and Interview questions. The main aim of this repository is to help other collegues who are learning Data Structures and Algorithms or preparing for an interview.
